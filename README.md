@@ -1,4 +1,5 @@
-# 🎓 The Sett by CodeBadger
+# 🎓 The Sett (not final name) by CodeBadger
+>>>>>>> 568753a4f2e02368b88814e008e9927c6155a168
 
 > A dyslexia-friendly study and task management app for adult learners returning to education.
 
@@ -11,7 +12,7 @@
 
 ## 🌱 About the Project
 
-OpenDesk was built as a portfolio project to demonstrate front-end development skills while solving a real problem — making study tools more accessible for adult learners, particularly those with dyslexia.
+The Sett was built as a portfolio project to demonstrate front-end development skills while solving a real problem — making study tools more accessible for adult learners, particularly those with dyslexia.
 
 The app is intentionally simple, calm, and distraction-free. Every design decision was made with the user in mind, from font choices to colour contrast to spacing controls.
 
