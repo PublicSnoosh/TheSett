@@ -1,4 +1,4 @@
-# 🎓 OpenDesk by CodeBadger
+# 🎓 The Sett by CodeBadger
 
 > A dyslexia-friendly study and task management app for adult learners returning to education.
 
@@ -63,6 +63,17 @@ The app is intentionally simple, calm, and distraction-free. Every design decisi
 
 ---
 
+## 📸 Screenshots
+
+![Welcome Screen](screenshots/welcome.png)
+![Tasks](screenshots/tasks.png)
+![Focus Timer](screenshots/timer.png)
+![Notes](screenshots/notes.png)
+![Settings](screenshots/settings.png)
+![Help](screenshots/help.png)
+
+---
+
 ## 💡 What I Learned
 
 This was my first complete JavaScript project, built from scratch after learning HTML and CSS fundamentals. Key concepts I learned and applied:
@@ -82,7 +93,7 @@ This was my first complete JavaScript project, built from scratch after learning
 
 No installation needed. Just open `index.html` in any modern browser.
 
-Or visit the live version: **[opendesk-by-codebadger.netlify.app](https://opendesk-by-codebadger.netlify.app)**
+Or visit the live version: **[thesett-by-codebadger.netlify.app](https://thesett-by-codebadger.netlify.app)**
 
 ---
 
